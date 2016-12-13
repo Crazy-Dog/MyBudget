@@ -1,1 +1,2 @@
 # MyBudget
+Android application
